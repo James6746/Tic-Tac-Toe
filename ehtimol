@@ -1,0 +1,166 @@
+1. Tajriba bitta o‘yin toshi va bitta tangani bir vaqtda tashlashdan iborat. Elementar hodisalar fazosi nechta elementdan iborat bo‘ladi?
+12
+
+2. Tajriba bitta o‘yin toshi va bitta tangani bir vaqtda tashlashdan iborat bo‘lsa, gerb tushish hodisasi qanday elementar hodisalardan iborat bo‘ladi?
+{(gerb,1), (gerb,2),(gerb,3), (gerb,4),(gerb,5),(gerb,6)}
+
+3. Tajriba bitta o‘yin toshi va bitta tangani bir vaqtda tashlashdan iborat bo‘lsa, toq ochko tushish hodisasi qanday elementar hodisalardan iborat bo‘ladi?
+{(gerb,1), (raqam,1),(gerb,3), (raqam,3),(gerb,5),(raqam,5)}
+
+4. Elementar hodisalar fazosi Ω = {1,2,3,4,5,6} da A={1,2,3,5}, B={3,4,5,6} hodisalar berigan bo'lsin. A U B - ?
+Ω
+
+5. Elementar hodisalar fazosi Ω = {1,2,3,4,5,6} da A={1,2,3,5}, B={3,4,5,6} hodisalar berigan bo'lsin. A \ B - ?
+{1, 2}
+
+6. Elementar hodisalar fazosi Ω = {1,2,3,4,5,6} da A={1,2,3,5}, B={3,4,5,6} hodisalar berigan bo'lsin. A n B - ?
+{3, 5}
+
+7.  Elementar hodisalar fazosi Ω = {1,2,3,4,5,6} da A={1,2,3,5}, B={3,4,5,6} hodisalar berigan bo'lsin. A ⊕ B - ?
+{1,2,4,6}
+
+8. Tajriba 5 ta o’yin toshini tashlashdan iborat.Tushgan ochkolar har xil bo’lish ehtimolligi topilsin.
+5/54
+
+9. Tajriba 6 ta tanga tashlashdan iborat. Barcha tangalarda bir xil rasm bo’lish ehtimolligi topilsin.
+1/32
+
+10. Idishda 4 ta oq, 4 ta qora va 4 ta sariq sharlar bor. Idishdan 3 ta har xil rangda sharlar olish ehtimolligi topilsin.
+16/55
+
+11. 0,1,2,3,4,5 raqamlardan bir xil raqamli 3 xonali son tuzish ehtimolligi topilsin.
+1/36
+
+12. ELEMENTAR so’zi harflari aloxida kartochkalarda yozilgan. Kartochkalardan ketma-ket to’rttasi olinganda TEMA so’zi chiqish ehtimolligi topilsin.
+1/1008
+
+13. Uchta o’yin toshi tashlanganda barcha ochkolar bir xil bo’lish ehtimolligi topilsin.
+1/36
+
+14. 4 honali avtomobil nomerida 3 ta raqam bir xil bo’lish ehtimolligi topilsin.
+0.036
+
+15. 5 ta tanga tashlanganda 4 tasida bir xil rasm bo’lish ehtimolligi topilsin.
+5/16
+
+16. 4 ta o’yin toshi tashlanmoqda. Kamida 3 tasida bir xil raqamlar tushish ehtimolligi topilsin.
+21/216
+
+17. 36 ta o’yin kartasidan tavakkaliga 3 tasi olinmoqda. Shularda 2 ta “TUZ” bo’lish ehtimolligi topilsin.
+16/595
+
+18. 36 ta o’yin kartasi aralashtirilganda 2 ta qora “QIROL” yonma-yon turish ehtimolligi topilsin.
+1/18
+
+19. Jovonda 10 ta kitob bor, ikkitasi qizil jildli. shu qizil jildli kitoblar yonma-yon turish ehtimolligi topilsin.
+1/5
+
+20. Idishda 1 dan 20 gacha sonlsr bilan nomerlangan 20 ta sharlar bor. Idishdan ketma-ket 2 ta shar olindi, birinchi olingan sharning nomeri ikkinchi olingan sharning nomeridan katta bo’lish ehtimolligi topilsin.
+1/2
+
+21. 1,2,3,4 raqamlardan 3 honali va raqamlar yig’indisi 4 dan oshmaydigan son tuzish ehtimolligi topilsin.
+1/16
+
+22. Telefon nomerining oxirgi 3 ta raqami o’chib ketgan. Ochib ketgan raqamlarning 2 tasi 9 raqami bo’lish ehtimolligi topilsin.
+0.021
+
+23. 4 ta oyin toshi tashlanganda, faqat 3 tasi bir xil bo’lish ehtimolligi topilsin.
+5/54
+
+24. 3 ta oyin toshi tashlanganda 2 ta 1 raqam tushish ehtimolligi topilsin.
+5/72
+
+25. Idishda 1,2,3 raqamli 3 ta shar bor. Idishdan ketma-ket uchta shar olindi. Olingan sharlarning raqami olinish tartibi bilan bir xil bo’lisg ehtimolligi topilsin.
+1/6
+
+26. Aylanma stol atrofida 10 ta mehmon joylashgan , ulardan 2 nafari erkak. Shu ikki erkak yonma-yon o’tirish ehtimolligi topilsin.
+2/9
+
+27. Idishda 1,2,3,4 raqamli 4 ta shar bor. Idishdan ketma-ket sharlar olinganda shardagi raqamlar o’sish tartibida chiqish ehtimolligi topilsin.
+1/24
+
+28. Tomoni bir bo’lgan kvadratga tashlangan nuqtadan kvadrat tomonigacha bo’lgan mazofa 0.1dan oshmaslik ehtimolligi topilsin
+0.36
+
+29. Agar, -1<x<1, -2<y<2 bo‘lsa P(y<2x)-?
+1/2 
+
+30. Agar, -1<x<1, -2<y<2 bo‘lsa P(y<|x|)-?
+5/8
+
+31. Agar, 0<x<3, 0<y<3 bo‘lsa P(y>2x/3)-?
+2/3
+
+32. Birlik kesmaga nuqta tashlanmoqda. Kichik bo’lakcha uzunligi 0.1 dan oshmaslik ehtimolligi topilsin.
+0.2
+
+33. Birlik kesmaga nuqta tashlanmoqda. Nuqtadan kesma markazigacha bo’lgan masofa 0.1dan oshmaslik ehtimolligi topilsin.
+0.2
+
+34. Birlik kesmaga nuqta tashlanmoqda. Nuqtadan kesma uchigacha bo’lgan masofa 0.1dan oshmaslik ehtimolligi topilsin.
+0.2
+
+35. Birlik kesmaga nuqta tashlanmoqda. Nuqtadan kesma boshigacha bo’lgan masofa 0.1dan oshmaslik ehtimolligi topilsin.
+0.1
+
+36. Agar, 0<x<4, y<x/2 bo‘lsa P(y<x/4)-?
+1/2
+
+37. Tomoni bir bo'lgan kvadratga tashlangan nuqtadan kvadrat markazigacha bo'lgan masofa 0.1dan oshmaslik ehtimolligi topilsin.
+π/100
+
+38. Bir doiraga nuqta tashlanmoqda. Nuqtadan aylanagacha bo'lgan masofa x(0<x<1)dan oshmaslik ehtimolligi topilsin.
+2x - x^2
+
+39. Tomoni bir bo'lgan kvadratga tashlangan nuqtadan kvadrat burchagigacha bo'lgan masofa 0.1 dan oshmaslik ehtimolligi topilsin.
+π/100
+
+40. TOmoni bir bo'lgan kvadratga tashlangan nuqtadan kvadratning fiksirlalngan burchagigacha bo'lgan masofa -.1dan oshmaslik ehtimolligi topilsin.
+π/400
+
+41. Agar, -2 < x < 2, -2 < y < 2 bo‘lsa P(x^2 + y^2 < 1)-?
+π/16
+
+42. Agar, 0 < x < 2, -1 < y < 1 bo‘lsa P(x^2 + y^2 < 1)-?
+π/8
+
+43. Agar, -2 < x < 2, -2 < y < 2 bo‘lsa P((x-1)^2 + y^2 < 1)-?
+π/16
+
+44. Agar, -2 < x < 2, -2 < y < 2 bo‘lsa P(x^2 + (y-1)^2 < 1)-?
+π/16
+
+45.  Agar, -2 < x < 2, -2 < y < 2 bo‘lsa P((x-1)^2 + (y-1)^2 < 1)-?
+π/16
+
+46. Tomoni bir bo'lgan kvadratga aylana ichki chizilgan. Kvadratga tashlangan nuqta aylanaga tushish ehtimolligi topilsin.
+π/4
+
+47. Ehtimollikning klassik ta‘rifida elementar hodisalar fazosiga qanday shart qo‘yiladi?
+Cheklilik
+
+48. Muqarrar hodisaning ehtimoli nimaga teng?
+1
+
+49. Mumkin bo'lmagan hodisaning ehtimoli nimaga teng?
+0
+
+50. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
